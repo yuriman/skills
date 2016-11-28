@@ -1,1 +1,3 @@
 # skills
+add
+del
