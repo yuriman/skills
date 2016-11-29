@@ -1,3 +1,3 @@
 # skills
-add  aada
+add  zvz
 del
